@@ -4,7 +4,7 @@
 
 BS Computer Science graduate (University of Gujrat, 2026) based in Rawalpindi/Islamabad, Pakistan. I build complete web applications, from the database and REST API to a clean, responsive front end, and I also design and launch business and e-commerce websites on WordPress. I'm currently open to full-stack developer roles and freelance projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-khan-6056992b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-khan-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-website-tau-swart-42.vercel.app/)
 
 ---
@@ -94,5 +94,5 @@ I'm also a Computer Science teacher (Grades 7-9) and private tutor. Explaining c
 
 I'm open to **full-stack developer roles** and **freelance projects**, including business websites, WooCommerce stores and simple mobile apps.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayesha-khan-6056992b1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayesha-khan-dev/)
 - 🌐 [Portfolio](https://personal-website-tau-swart-42.vercel.app/)
